@@ -8,4 +8,6 @@ The player can pick their move by pressing one of the three buttons and the comp
 
 This game is a good pass time when you are taking a break from work or having a lazy day at home.
 
+This is also a beginner friendly project for students learning coding to embark on.
+
 Happy playing!
