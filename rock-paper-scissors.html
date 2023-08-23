@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rock-Paper-Scissors</title>
+    <link rel="stylesheet" href="rock-paper-scissors.css">
+    <script
+        src="https://code.jquery.com/jquery-3.7.0.js"
+        integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM="
+        crossorigin="anonymous">
+    </script>
+     
+</head>
+<body>
+    
+    <div class="parent-div">
+        <h1 class="game-title">Rock Paper Scissors Game.</h1>
+        <p class="intro"> Welcome to the Rock-Paper-Scissors game. You will be playing against the computer. All the best!</p>
+        
+        <div class="readout">
+            <span id="idReadout">&nbsp;</span>
+        </div>
+        
+        <div class="user_images_container">
+            <div>
+                <button id="rock" class="highlightedimages" class="plain_button">
+                    <img src="rock-paper-scissors-images/fist.png" alt="Rock" class="images">
+                    rock
+                 </button>
+            </div>
+
+            <div>
+                <button id="paper" class="highlightedimages" class="plain_button">
+                    <img src="rock-paper-scissors-images/hello.png" alt="Paper" class="images" class="highlightedimages">paper
+                </button>
+            </div>
+            
+            <div>
+                <button id="scissors" class="highlightedimages" class="plain_button">
+                    <img src="rock-paper-scissors-images/scissors.png" alt="scissors" class="images" class="highlightedimages">scissors
+                </button>
+            </div>
+        </div>
+        <h2>Computer Pick</h2>
+        <div class="computer_images_container">
+            <div>
+                <button id="comp_rock">
+                    <img src="rock-paper-scissors-images/fist.png" alt="Rock" class="comp_images">
+                    rock
+                    </button>
+            </div>
+
+            <div>
+                <button id="comp_paper">
+                    <img src="rock-paper-scissors-images/hello.png" alt="Paper" class="comp_images">paper
+                </button>
+            </div>
+            
+            <div>
+                <button id="comp_scissors">
+                    <img src="rock-paper-scissors-images/scissors.png" alt="scissors" class="comp_images">scissors
+                </button>
+            </div>
+            
+        </div>
+        <script src="/rock-paper-scissors.js"></script> 
+    </div>
+    
+    
+
+</body>
+</html>

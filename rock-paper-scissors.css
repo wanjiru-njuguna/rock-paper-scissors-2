@@ -1,0 +1,71 @@
+body{
+    background-color: white;
+    color: black;
+}
+.game-title{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.parent-div{
+    display: grid;
+    margin: 0.3em;
+    margin-bottom: 0%;
+    background-color: white;
+   
+    
+    
+
+}
+.user_images_container{
+    display: flex;
+    flex-direction: row
+    
+    
+}
+.computer_images_container
+{
+    display: flex;
+    flex-direction: row
+}
+.images{
+width: 4em;
+padding: 4em;
+
+
+}
+.comp_images{
+    width: 7em;
+    padding: 4em;
+}
+.intro{
+    margin-left: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0.1em;
+    font-size: large;
+}
+button{
+    display: flexbox;
+    margin: 2em;
+    background-color: white;
+    cursor: pointer;
+    
+    
+}
+.readout{
+    border-radius: 10px;
+    margin-top: 3em;
+    margin-bottom: 0.2em;
+    margin-left: 1em;
+    font-size: large;
+    color: black;
+}
+.highlightedimages{
+    background-color: aqua;
+}
+.plain_button{
+    background-color: aliceblue;
+}
