@@ -10,4 +10,4 @@ This game is a good pass time when you are taking a break from work or having a 
 
 This is also a beginner friendly project for students learning coding to embark on.
 
-Happy playing!
+Thanks for  playing!
