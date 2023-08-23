@@ -1,4 +1,10 @@
+//My remake of the rock, paper scissors game in vanilla JS
+//
+// by Wanjiru Njuguna
+//
+// August 2023
 
+//link:
 
 // an array of all the availabale choices in the game which is similar to the name of the button id.
 const choices = ["rock","paper", "scissors"];

@@ -2,6 +2,8 @@
 
 This project is a simple rock, paper scissors game that a player can play against a computer.
 
+Click to play 
+
 it is written in Javascript, a few lines of Jquery, HTML and CSS.
 
 The player can pick their move by pressing one of the three buttons and the computer will pick a move that will be displayed at the bottom of the page.
