@@ -2,7 +2,7 @@
 
 This project is a simple rock, paper scissors game that a player can play against a computer.
 
-[Click to play] (https://wanjiru-njuguna.github.io/rock-paper-scissors-2/rock-paper-scissors.html)
+[Click to play](https://wanjiru-njuguna.github.io/rock-paper-scissors-2/rock-paper-scissors.html)
 
 it is written in Javascript, a few lines of Jquery, HTML and CSS.
 
