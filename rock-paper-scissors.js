@@ -4,7 +4,7 @@
 //
 // August 2023
 
-//link:
+//link:https://wanjiru-njuguna.github.io/rock-paper-scissors-2/rock-paper-scissors.html
 
 // an array of all the availabale choices in the game which is similar to the name of the button id.
 const choices = ["rock","paper", "scissors"];
